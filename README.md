@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi 👋 I'm Aditya Das
+💫 About Me:
 🔭 I’m currently working on: Building a solid foundation in Generative AI through hands-on projects and professional coursework.<br><br>👯 I’m looking to collaborate on: Open-source Python projects or community-driven AI applications that solve real-world problems.<br><br>🤝 I’m looking for help with: Advanced Python concepts and best practices for deploying large language models (LLMs).<br><br>🌱 I’m currently learning: LangChain, Hugging Face, and mastering Python for AI development.<br><br>💬 Ask me about: Generative AI fundamentals, my journey into tech as a fresher, or 3D modeling and product photography.<br><br>⚡ Fun fact: I was born in the charming town of Taki and am currently planning to write my own autobiography.
 
 
